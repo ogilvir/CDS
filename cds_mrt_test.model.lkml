@@ -7,3 +7,5 @@ include: "*.view"
 include: "*.dashboard"
 
 explore: dtl_pega_mkt_aa_data_mkt_comms {}
+
+explore: dtl_pega_mkt_ih_dim_channel {}
